@@ -25,7 +25,6 @@ class _MovieListingState extends State<MovieListing> {
       ),
       drawer: const NavDrawer(),
       body: Container(
-        width: double.infinity,
         color: const Color(0xFF1C1D26),
         padding: const EdgeInsets.all(20),
         child: Column(
